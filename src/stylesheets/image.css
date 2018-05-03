@@ -1,0 +1,46 @@
+/*.project-image{
+  height: 200px !important;
+  width: 200px !important;
+  margin: 0px 10px;
+}
+
+
+.images-wrapper{
+  display: inline-flex;
+  padding-top: 40px;
+  flex-wrap: wrap;
+}
+*/
+.multi-images-wrapper{
+  /*border: 1px solid black;*/
+  /*height: auto;*/
+}
+
+/*.multi-images{
+  min-width: 440px;
+  width: 400px;
+}*/
+
+/* fluid 5 columns */
+.multi-grid-wrapper{
+  border: 1px solid #cccccc;
+}
+
+.single-image{
+  padding: 9px;
+}
+.mutli-image{
+  padding:  10px;
+}
+
+.grid-item { 
+  width: 200px; 
+  height: 200px;
+}
+/* 2 columns */
+.grid-item--width2 { width: 410px; }
+.grid-item--height2 { height: 440px;}
+.grid-item-multi{
+  width: 200px;
+  height: 200px;
+}

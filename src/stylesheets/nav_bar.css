@@ -1,0 +1,10 @@
+.nav-item-wrapper{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+}
+.nav-item{
+  margin: 0px 10px;
+}
+
